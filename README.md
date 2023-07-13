@@ -21,3 +21,8 @@ Please visit the [Sprasa Media website](https://sprasamedia.com) to access the l
 ## Contributing
 
 We welcome contributions from the open source community! If you would like to contribute to Sprasa Media, please follow the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md). Your contributions can include bug fixes, feature enhancements, and additional news articles on relevant topics.
+
+## Contact
+
+For any inquiries or feedback, please contact us at info@sprasamedia.com.
+
