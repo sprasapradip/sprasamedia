@@ -16,3 +16,8 @@ This repository contains the following:
 
 ## Sprasa Media Website
 
+Please visit the [Sprasa Media website](https://sprasamedia.com) to access the latest news, articles, and updates. The website provides a user-friendly interface for browsing through different categories, reading articles, and staying up-to-date with the latest news.
+
+## Contributing
+
+We welcome contributions from the open source community! If you would like to contribute to Sprasa Media, please follow the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md). Your contributions can include bug fixes, feature enhancements, and additional news articles on relevant topics.
